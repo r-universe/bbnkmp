@@ -1,0 +1,10 @@
+[
+  {
+    "package": "DoseFinding",
+    "oncran": true
+  },
+  {
+    "package": "txtplot",
+    "oncran": true
+  }
+]

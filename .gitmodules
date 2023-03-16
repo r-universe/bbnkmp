@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DoseFinding"]
+	path = DoseFinding
+	url = https://github.com/bbnkmp/dosefinding
+	shallow = true
+	registered = true
+[submodule "txtplot"]
+	path = txtplot
+	url = https://github.com/bbnkmp/txtplot
+	shallow = true
+	registered = true

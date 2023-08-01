@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "crossdes"]
-	path = crossdes
-	url = https://github.com/cran/crossdes
 [submodule "DoseFinding"]
 	path = DoseFinding
 	url = https://github.com/bbnkmp/dosefinding
-[submodule "gsbDesign"]
-	path = gsbDesign
-	url = https://github.com/cran/gsbDesign
 [submodule "SEL"]
 	path = SEL
 	url = https://github.com/cran/SEL
+[submodule "crossdes"]
+	path = crossdes
+	url = https://github.com/cran/crossdes
+[submodule "gsbDesign"]
+	path = gsbDesign
+	url = https://github.com/cran/gsbDesign
 [submodule "txtplot"]
 	path = txtplot
 	url = https://github.com/bbnkmp/txtplot

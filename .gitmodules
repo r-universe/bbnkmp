@@ -14,6 +14,9 @@
 [submodule "gsbDesign"]
 	path = gsbDesign
 	url = https://github.com/cran/gsbDesign
+[submodule "iterLap"]
+	path = iterLap
+	url = https://github.com/cran/iterLap
 [submodule "txtplot"]
 	path = txtplot
 	url = https://github.com/bbnkmp/txtplot
